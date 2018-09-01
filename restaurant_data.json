@@ -2,7 +2,7 @@
  {
    "id": "1",
    "Name": "Absolute Thai",
-   "LatLng": "[55.941685,-3.2026829000000134]",
+   "LatLng": [55.941685, -3.2026829000000134],
    "Address": "22 Valleyfield Street Edinburgh EH3 9LR",
    "PhoneNumber": "0131 228 8022",
    "EveningDeal": "12.50 for 2 courses",
@@ -14,7 +14,7 @@
  {
    "id": "2",
    "Name": "Amarone",
-   "LatLng": "[55.9537467,-3.1944038999999975]",
+   "LatLng": [55.9537467,-3.1944038999999975],
    "Address": "13 St Andrew Square Edinburgh EH2 2AF",
    "PhoneNumber": "0131 523 1171",
    "EveningDeal": "£15.95 (£18.95 three courses)",
@@ -26,7 +26,7 @@
  {
    "id": "3",
    "Name": "Angels with Bagpipes",
-   "LatLng": "[55.94983879999999,-3.191092499999968]",
+   "LatLng": [55.94983879999999,-3.191092499999968],
    "Address": "343 High Street, Edinburgh, EH1 1PW",
    "PhoneNumber": "0131 220 1111",
    "EveningDeal": "17.5",
@@ -38,7 +38,7 @@
  {
    "id": "4",
    "Name": "Asti",
-   "LatLng": "[55.95819150000001,-3.1892656999999645]",
+   "LatLng": [55.95819150000001,-3.1892656999999645],
    "Address": "73 Broughton Street, Edinburgh, EH1 3RJ",
    "PhoneNumber": "0131 558 9156",
    "EveningDeal": "Pre-theatre price £11.95",
@@ -50,7 +50,7 @@
  {
    "id": "5",
    "Name": "Bar Soba",
-   "LatLng": "[55.9544607,-3.198045900000011]",
+   "LatLng": [55.9544607,-3.198045900000011],
    "Address": "104 Hanover Street Edinburgh EH2 1DR",
    "PhoneNumber": "0131 225 6220",
    "EveningDeal": "2 courses for 12.95",
@@ -62,7 +62,7 @@
  {
    "id": "6",
    "Name": "Bia Bistrot",
-   "LatLng": "[55.9544607,-3.198045900000011]",
+   "LatLng": [55.9544607,-3.198045900000011],
    "Address": "19 Colinton Rd Edinburgh EH10 5DP",
    "PhoneNumber": "0131 452 8453",
    "EveningDeal": "2 courses for £9.50 or 3 courses for £11",
@@ -74,7 +74,7 @@
  {
    "id": "7",
    "Name": "Bisque Bar Brasserie",
-   "LatLng": "[55.938133,-3.205789299999992]",
+   "LatLng": [55.938133,-3.205789299999992],
    "Address": "69 Bruntsfield Place Edinburgh EH10 4HH",
    "PhoneNumber": "0131 622 8163",
    "EveningDeal": "2 courses for £15",
@@ -86,7 +86,7 @@
  {
    "id": "8",
    "Name": "Cadiz",
-   "LatLng": "[55.9529984,-3.2013518999999633]",
+   "LatLng": [55.9529984,-3.2013518999999633],
    "Address": "First Floor 77b George Street Edinburgh EH2 3EE",
    "PhoneNumber": "0131 226 3000",
    "EveningDeal": "2 courses from £16.95 - with dessert £20.95 per person",
@@ -98,7 +98,7 @@
  {
    "id": "9",
    "Name": "Café Andaluz",
-   "LatLng": "[55.95301749999999,-3.2013798000000406]",
+   "LatLng": [55.95301749999999,-3.2013798000000406],
    "Address": "77B George Street, Edinburgh, EH2 3EE",
    "PhoneNumber": "0131 220 9980",
    "EveningDeal": "Pre-theatre price £15.95 (for three tapas plus dessert)",
@@ -110,7 +110,7 @@
  {
    "id": "10",
    "Name": "Café Marlayne",
-   "LatLng": "[55.9582034,-3.1848766000000523]",
+   "LatLng": [55.9582034,-3.1848766000000523],
    "Address": "13 Antigua Street Edinburgh EH1 3NH",
    "PhoneNumber": "0131 558 8244",
    "EveningDeal": "2 courses for 17.5",
@@ -122,7 +122,7 @@
  {
    "id": "11",
    "Name": "Café Royal Oyster Bar",
-   "LatLng": "[55.95379200000001,-3.190509900000052]",
+   "LatLng": [55.95379200000001,-3.190509900000052],
    "Address": "19a West Register Street Edinburgh EH2 2AA",
    "PhoneNumber": "0131 556 1884",
    "EveningDeal": "2 courses for £14.95. 3 course for £17.95",
@@ -146,7 +146,7 @@
  {
    "id": "13",
    "Name": "CAU Edinburgh",
-   "LatLng": "[55.9516248,-3.2027731000000585]",
+   "LatLng": [55.9516248,-3.2027731000000585],
    "Address": "15 Castle Street, Edinburgh, EH2 3AH",
    "PhoneNumber": "0131 226 2262",
    "EveningDeal": "Pre-theatre price Two courses £11, three courses 13.",
@@ -158,7 +158,7 @@
  {
    "id": "14",
    "Name": "Contini George Street",
-   "LatLng": "[55.9527777,-3.2029414999999517]",
+   "LatLng": [55.9527777,-3.2029414999999517],
    "Address": "103 George Street, Edinburgh, EH2 3ES",
    "PhoneNumber": "0131 225 1550",
    "EveningDeal": "Pre-theatre price £16",
@@ -170,7 +170,7 @@
  {
    "id": "15",
    "Name": "Côte Brasserie",
-   "LatLng": "[55.9538172,-3.2006810000000314]",
+   "LatLng": [55.9538172,-3.2006810000000314],
    "Address": "51 Frederick Street Edinburgh EH2 1LH",
    "PhoneNumber": "0131 202 6256",
    "EveningDeal": "£10.95 (set lunch); £20.20 (evening meal)",
@@ -182,7 +182,7 @@
  {
    "id": "16",
    "Name": "Cucina",
-   "LatLng": "[55.94926409999999,-3.193068499999981]",
+   "LatLng": [55.94926409999999,-3.193068499999981],
    "Address": "Royal Mile Hotel 1 George IV Bridge Edinburgh EH1 1AD",
    "PhoneNumber": "0131 240 1666",
    "EveningDeal": "2 courses for £19.95 3 courses fo £25",
@@ -194,7 +194,7 @@
  {
    "id": "17",
    "Name": "Educated Flea",
-   "LatLng": "[55.95796319999999,-3.189553100000012]",
+   "LatLng": [55.95796319999999,-3.189553100000012],
    "Address": "32b Broughton Street, Edinburgh, EH1 3SB",
    "PhoneNumber": "0131 556 8092",
    "EveningDeal": "Pre-theatre price £15",
@@ -206,7 +206,7 @@
  {
    "id": "18",
    "Name": "Elliot's Restaurant",
-   "LatLng": "[55.9538853,-3.1869363000000703]",
+   "LatLng": [55.9538853,-3.1869363000000703],
    "Address": "Apex Hotel Waterloo Place 23–27 Waterloo Place Edinburgh EH1 3BH",
    "PhoneNumber": "0800 049 8302",
    "EveningDeal": "2 courses for £15 3 courses for £20",
@@ -218,7 +218,7 @@
  {
    "id": "19",
    "Name": "Field",
-   "LatLng": "[55.944691,-3.1854459999999563]",
+   "LatLng": [55.944691,-3.1854459999999563],
    "Address": "41 West Nicolson Street Edinburgh EH8 9DB",
    "PhoneNumber": "0131 667 7010",
    "EveningDeal": "1 Course £10.50 2 Courses £13.95 3 Courses £16.95",
@@ -230,7 +230,7 @@
  {
    "id": "20",
    "Name": "Fishers in the City",
-   "LatLng": "[55.95386130000001,-3.1995105999999396]",
+   "LatLng": [55.95386130000001,-3.1995105999999396],
    "Address": "58 Thistle Street Edinburgh EH2 1EN",
    "PhoneNumber": "0131 225 5109",
    "EveningDeal": "2 courses £15.00 / 3 courses £18.00.",
@@ -242,7 +242,7 @@
  {
    "id": "21",
    "Name": "Giuliano's",
-   "LatLng": "[55.957248,-3.185806800000023]",
+   "LatLng": [55.957248,-3.185806800000023],
    "Address": "18–19 Union Place Edinburgh EH1 3NQ",
    "PhoneNumber": "0131 556 6590",
    "EveningDeal": "3 COURSE £19.50",
@@ -254,7 +254,7 @@
  {
    "id": "22",
    "Name": "Harveu Nichols Fourth Floor",
-   "LatLng": "[55.95489300000001,-3.191785100000061]",
+   "LatLng": [55.95489300000001,-3.191785100000061],
    "Address": "Harvey Nichols 30–34 St Andrew Square Edinburgh EH2 2AD",
    "PhoneNumber": "0131 524 8350",
    "EveningDeal": "Deals vary - see Bookatable https://www.bookatable.co.uk/harvey-nichols-edinburgh-forth-floor-brasserie-edinburgh",
@@ -266,7 +266,7 @@
  {
    "id": "23",
    "Name": "Howies (Victoria Street)",
-   "LatLng": "[55.9487624,-3.193413899999996]",
+   "LatLng": [55.9487624,-3.193413899999996],
    "Address": "10–14 Victoria Street Edinburgh EH1 2HG",
    "PhoneNumber": "0131 225 1721",
    "EveningDeal": "2 courses for 14.95",
@@ -278,7 +278,7 @@
  {
    "id": "24",
    "Name": "Iris",
-   "LatLng": "[55.9540136,-3.19944780000003]",
+   "LatLng": [55.9540136,-3.19944780000003],
    "Address": "47a Thistle Street Edinburgh EH2 1DY",
    "PhoneNumber": "0131 220 2111",
    "EveningDeal": null,
@@ -290,7 +290,7 @@
  {
    "id": "25",
    "Name": "L'Escargot Blanc Restaurant & Wine Bar",
-   "LatLng": "[55.9508975,-3.210032700000056]",
+   "LatLng": [55.9508975,-3.210032700000056],
    "Address": "17 Queensferry Street Edinburgh EH2 4QW",
    "PhoneNumber": "0131 226 1890",
    "EveningDeal": "2 courses for 14.90",
@@ -302,7 +302,7 @@
  {
    "id": "26",
    "Name": "L'Escargot Bleu",
-   "LatLng": "[55.958645,-3.190311000000065]",
+   "LatLng": [55.958645,-3.190311000000065],
    "Address": "56 Broughton Street, Edinburgh, EH1 3SA",
    "PhoneNumber": "0131 557 1600",
    "EveningDeal": "Pre-theatre price £15",
@@ -314,7 +314,7 @@
  {
    "id": "27",
    "Name": "Le Roi Fou",
-   "LatLng": "[55.9575237,-3.1882501999999704]",
+   "LatLng": [55.9575237,-3.1882501999999704],
    "Address": "1 Forth Street, Edinburgh, EH1 3JX",
    "PhoneNumber": "0131 557 9346",
    "EveningDeal": "Pre-theatre price £19 for two courses (£23 for three courses)",
@@ -326,7 +326,7 @@
  {
    "id": "28",
    "Name": "Maison Bleue",
-   "LatLng": "[55.9485559,-3.1943661999999904]",
+   "LatLng": [55.9485559,-3.1943661999999904],
    "Address": "36–38 Victoria Street Edinburgh EH1 2JW",
    "PhoneNumber": "0131 226 1900",
    "EveningDeal": "2 courses for £15",
@@ -338,7 +338,7 @@
  {
    "id": "29",
    "Name": "Maison Bleue le Bistrot",
-   "LatLng": "[55.9265467,-3.209446200000002]",
+   "LatLng": [55.9265467,-3.209446200000002],
    "Address": "372 Morningside Rd Edinburgh EH10 5HS",
    "PhoneNumber": "0131 4470345",
    "EveningDeal": "2 courses for £14.50",
@@ -350,7 +350,7 @@
  {
    "id": "30",
    "Name": "Mariachi",
-   "LatLng": "[55.9485013,-3.1939621000000216]",
+   "LatLng": [55.9485013,-3.1939621000000216],
    "Address": "7 Victoria Street Edinburgh EH1 2HE",
    "PhoneNumber": "0131 623 0077",
    "EveningDeal": "2 courses for 12.95 3 courses for 15.95",
@@ -362,7 +362,7 @@
  {
    "id": "31",
    "Name": "Merchants",
-   "LatLng": "[55.947577,-3.1918960000000425]",
+   "LatLng": [55.947577,-3.1918960000000425],
    "Address": "17 Merchant Street, Edinburgh, EH1 2QD",
    "PhoneNumber": "0131 225 4009",
    "EveningDeal": "Average price £10.95 (set lunch); £23.50 (evening meal)",
@@ -374,7 +374,7 @@
  {
    "id": "32",
    "Name": "Mussel Inn",
-   "LatLng": "[55.9525399,-3.1990624000000025]",
+   "LatLng": [55.9525399,-3.1990624000000025],
    "Address": "1–65 Rose Street Edinburgh EH2 2NH",
    "PhoneNumber": "0843 2892 481",
    "EveningDeal": "£10.95 (2 courses) or £13.95 (3 courses)",
@@ -386,7 +386,7 @@
  {
    "id": "33",
    "Name": "Olive Branch Bistro",
-   "LatLng": "[55.9585444,-3.1897180999999364]",
+   "LatLng": [55.9585444,-3.1897180999999364],
    "Address": "91 Broughton Street, Edinburgh, EH1 3RX",
    "PhoneNumber": "0131 557 8589",
    "EveningDeal": null,
@@ -398,7 +398,7 @@
  {
    "id": "34",
    "Name": "Ondine",
-   "LatLng": "[55.94890479999999,-3.19256740000003]",
+   "LatLng": [55.94890479999999,-3.19256740000003],
    "Address": "2 George IV Bridge Edinburgh EH1 1AD",
    "PhoneNumber": "0131 226 1888",
    "EveningDeal": "2 courses for £19 3 courses for £24",
@@ -410,7 +410,7 @@
  {
    "id": "36",
    "Name": "Petit Paris",
-   "LatLng": "[55.94753799999999,-3.1965470000000096]",
+   "LatLng": [55.94753799999999,-3.1965470000000096],
    "Address": "38–40 Grassmarket, Edinburgh, EH1 2JU",
    "PhoneNumber": "0131 226 2442",
    "EveningDeal": "Pre-theatre price £13.90 (including coffee)",
@@ -422,7 +422,7 @@
  {
    "id": "37",
    "Name": "Rabble Taphouse & Grill",
-   "LatLng": "[55.953992,-3.200627499999996]",
+   "LatLng": [55.953992,-3.200627499999996],
    "Address": "55a Frederick Street, Edinburgh, EH2 1LH",
    "PhoneNumber": "0131 622 7800",
    "EveningDeal": "Food served Mon–Sun 8am–10pm.",
@@ -434,7 +434,7 @@
  {
    "id": "38",
    "Name": "Restaurant Mark Greenaway",
-   "LatLng": "[55.95378419999999,-3.2038609999999608]",
+   "LatLng": [55.95378419999999,-3.2038609999999608],
    "Address": "69 North Castle Street, Edinburgh, EH2 3LJ",
    "PhoneNumber": "0131 226 1155",
    "EveningDeal": "Pre-theatre price £24",
@@ -446,7 +446,7 @@
  {
    "id": "39",
    "Name": "Smoke Stack",
-   "LatLng": "[55.9578368,-3.1887831000000233]",
+   "LatLng": [55.9578368,-3.1887831000000233],
    "Address": "53–55 Broughton Street, Edinburgh, EH1 3RJ",
    "PhoneNumber": "0131 556 6032",
    "EveningDeal": "Pre-theatre price £13",
@@ -458,7 +458,7 @@
  {
    "id": "40",
    "Name": "Steak",
-   "LatLng": "[55.95705309999999,-3.1866390000000138]",
+   "LatLng": [55.95705309999999,-3.1866390000000138],
    "Address": "14 Picardy Place, Edinburgh, EH1 3JT",
    "PhoneNumber": "0131 556 1289",
    "EveningDeal": "Pre-theatre price £21.95; 3 courses £26.95",
@@ -470,7 +470,7 @@
  {
    "id": "41",
    "Name": "Thai Lemongrass",
-   "LatLng": "[55.9391904,-3.2049191999999493]",
+   "LatLng": [55.9391904,-3.2049191999999493],
    "Address": "40-41 Bruntsfield Pl Edinburgh EH10 4HJ",
    "PhoneNumber": "0131 229 2225",
    "EveningDeal": "3 courses for £15.50",
@@ -482,7 +482,7 @@
  {
    "id": "42",
    "Name": "The Apartment Bistro",
-   "LatLng": "[55.9403123,-3.2038142000000107]",
+   "LatLng": [55.9403123,-3.2038142000000107],
    "Address": "7–13 Barclay Place Edinburgh EH10 4HW",
    "PhoneNumber": "0131 228 6456",
    "EveningDeal": "2 courses for £14 and 3 courses for £18",
@@ -494,7 +494,7 @@
  {
    "id": "43",
    "Name": "The Brasserie at the Glasshouse Hotel",
-   "LatLng": "[55.956492,-3.1850875000000087]",
+   "LatLng": [55.956492,-3.1850875000000087],
    "Address": "2 Greenside Place, Edinburgh, EH1 3AA",
    "PhoneNumber": "0131 525 8200",
    "EveningDeal": "Pre-theatre price £15",
@@ -506,7 +506,7 @@
  {
    "id": "44",
    "Name": "The Dining Room",
-   "LatLng": "[55.95450089999999,-3.199567399999978]",
+   "LatLng": [55.95450089999999,-3.199567399999978],
    "Address": "The Scotch Malt Whisky Society 28 Queen Street Edinburgh EH2 1JX",
    "PhoneNumber": "0131 220 2044",
    "EveningDeal": "3 courses for £21.95",
@@ -518,7 +518,7 @@
  {
    "id": "46",
    "Name": "The Jam House",
-   "LatLng": "[55.9551987,-3.195829799999956]",
+   "LatLng": [55.9551987,-3.195829799999956],
    "Address": "5 Queen Street Edinburgh EH2 1JE view map",
    "PhoneNumber": "0131 226 4380",
    "EveningDeal": "1 Course £15 – 2 Courses £20 – 3 Courses £24",
@@ -530,7 +530,7 @@
  {
    "id": "47",
    "Name": "The Mussel and Steak Bar",
-   "LatLng": "[55.94801859999999,-3.1942017999999734]",
+   "LatLng": [55.94801859999999,-3.1942017999999734],
    "Address": "10 West Bow Grassmarket Edinburgh EH1 2HH",
    "PhoneNumber": "0131 225 5028",
    "EveningDeal": "£17.95 for 3 courses",
@@ -542,7 +542,7 @@
  {
    "id": "48",
    "Name": "The Outsider",
-   "LatLng": "[55.9478506,-3.191932800000018]",
+   "LatLng": [55.9478506,-3.191932800000018],
    "Address": "15–16 George IV Bridge, Edinburgh, EH1 1EE",
    "PhoneNumber": "0131 226 3131",
    "EveningDeal": "Pre-theatre price £11",
@@ -554,7 +554,7 @@
  {
    "id": "50",
    "Name": "The Voodoo Rooms",
-   "LatLng": "[55.95381140000001,-3.19069300000001]",
+   "LatLng": [55.95381140000001,-3.19069300000001],
    "Address": "19a West Register Street Edinburgh EH2 2AA",
    "PhoneNumber": "0131 556 7060",
    "EveningDeal": "20% off the set menu",
@@ -566,7 +566,7 @@
  {
    "id": "51",
    "Name": "The Wee Restaurant Edinburgh",
-   "LatLng": "[55.954095,-3.2006920000000036]",
+   "LatLng": [55.954095,-3.2006920000000036],
    "Address": "61 Frederick Street, Edinburgh, EH2 1LH",
    "PhoneNumber": "0131 225 7983",
    "EveningDeal": "Pre-theatre price £16 (menu du jour)",
@@ -578,7 +578,7 @@
  {
    "id": "52",
    "Name": "The Witchery by the Castle",
-   "LatLng": "[55.948789,-3.1956279999999424]",
+   "LatLng": [55.948789,-3.1956279999999424],
    "Address": "Castlehill, Royal Mile, Edinburgh, EH1 2NF",
    "PhoneNumber": "0131 225 5613",
    "EveningDeal": "Average price £20 (set lunch); £45 (evening meal)",
@@ -590,7 +590,7 @@
  {
    "id": "53",
    "Name": "Tony Macaroni",
-   "LatLng": "[55.9570336,-3.1849988000000167]",
+   "LatLng": [55.9570336,-3.1849988000000167],
    "Address": "Omni Centre, Greenside Row, Edinburgh, EH1 3AA",
    "PhoneNumber": "0131 557 2717",
    "EveningDeal": "Pre-theatre price £9.90 (Menu Presto from £4.95 for a dish); £10.95 on Sunday",
@@ -602,7 +602,7 @@
  {
    "id": "54",
    "Name": "Tower Restaurant",
-   "LatLng": "[55.94694939999999,-3.190749500000038]",
+   "LatLng": [55.94694939999999,-3.190749500000038],
    "Address": "National Museum of Scotland, Chambers Street, Edinburgh, EH1 1JF",
    "PhoneNumber": "0131 225 3003",
    "EveningDeal": "Pre-theatre price £22",
@@ -614,7 +614,7 @@
  {
    "id": "55",
    "Name": "Vittoria on the Bridge",
-   "LatLng": "[55.9477814,-3.1918869999999515]",
+   "LatLng": [55.9477814,-3.1918869999999515],
    "Address": "19 George IV Bridge, Edinburgh, EH1 1EN",
    "PhoneNumber": "0131 225 1740",
    "EveningDeal": "Pre-theatre price £18.95 for three courses and a drink - Showbiz menu",
@@ -626,7 +626,7 @@
  {
    "id": "56",
    "Name": "Yeni",
-   "LatLng": "[55.9540061,-3.197263199999952]",
+   "LatLng": [55.9540061,-3.197263199999952],
    "Address": "73 Hanover Street Edinburgh EH2 1EE",
    "PhoneNumber": "0131 225 5755",
    "EveningDeal": "£15.95 (3 mezze and dessert)",
@@ -638,7 +638,7 @@
  {
    "id": "57",
    "Name": "Zara's Mediterranean Bistro",
-   "LatLng": "[55.9515288,-3.2041289999999663]",
+   "LatLng": [55.9515288,-3.2041289999999663],
    "Address": "176/1 Rose Street, Edinburgh, EH2 4BA",
    "PhoneNumber": "0131 225 2333",
    "EveningDeal": null,
